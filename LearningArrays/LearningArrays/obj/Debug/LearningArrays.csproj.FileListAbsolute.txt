@@ -1,0 +1,7 @@
+C:\Users\merki\Desktop\git\LearningDotNet1\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe.config
+C:\Users\merki\Desktop\git\LearningDotNet1\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe
+C:\Users\merki\Desktop\git\LearningDotNet1\LearningArrays\LearningArrays\bin\Debug\LearningArrays.pdb
+C:\Users\merki\Desktop\git\LearningDotNet1\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csprojAssemblyReference.cache
+C:\Users\merki\Desktop\git\LearningDotNet1\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\merki\Desktop\git\LearningDotNet1\LearningArrays\LearningArrays\obj\Debug\LearningArrays.exe
+C:\Users\merki\Desktop\git\LearningDotNet1\LearningArrays\LearningArrays\obj\Debug\LearningArrays.pdb
